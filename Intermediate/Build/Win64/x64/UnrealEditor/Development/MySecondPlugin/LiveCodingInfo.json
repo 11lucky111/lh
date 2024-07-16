@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MySecondPlugin.cpp.obj": [
+			"MySecondActorComponent.gen.cpp.obj",
+			"MySecondPlugin.init.gen.cpp.obj",
+			"MySecondPluginBPLibrary.gen.cpp.obj",
+			"MySecondActorComponent.cpp.obj",
+			"MySecondPlugin.cpp.obj",
+			"MySecondPluginBPLibrary.cpp.obj"
+		]
+	}
+}

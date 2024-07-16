@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mysecondplugin\\module.mysecondplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zreal\\desktop\\test\\intermediate\\build\\win64\\x64\\testeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mysecondplugin\\definitions.mysecondplugin.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\mysecondplugin\\uht\\mysecondactorcomponent.gen.cpp",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\public\\mysecondactorcomponent.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\mysecondplugin\\uht\\mysecondactorcomponent.generated.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\mysecondplugin\\uht\\mysecondplugin.init.gen.cpp",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\mysecondplugin\\uht\\mysecondpluginbplibrary.gen.cpp",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\public\\mysecondpluginbplibrary.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\mysecondplugin\\uht\\mysecondpluginbplibrary.generated.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\private\\mysecondactorcomponent.cpp",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\pakfile\\public\\iplatformfilepak.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\bigint.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\ienginecrypto.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\rsa\\public\\rsa.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameraactor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameraactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\postprocessvolume.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\postprocessvolume.generated.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\private\\mysecondplugin.cpp",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\public\\mysecondplugin.h",
+            "c:\\users\\zreal\\desktop\\test\\plugins\\myplugin\\source\\mysecondplugin\\private\\mysecondpluginbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

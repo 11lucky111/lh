@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyPlugin.cpp.obj": [
+			"MyActor.gen.cpp.obj",
+			"MyActorComponent.gen.cpp.obj",
+			"MyGameModeBase.gen.cpp.obj",
+			"MyPlayerController.gen.cpp.obj",
+			"MyPlugin.init.gen.cpp.obj",
+			"MyPluginBPLibrary.gen.cpp.obj",
+			"MyUserWidget.gen.cpp.obj",
+			"MyActor.cpp.obj",
+			"MyActorComponent.cpp.obj",
+			"MyGameModeBase.cpp.obj",
+			"MyPlayerController.cpp.obj",
+			"MyPlugin.cpp.obj",
+			"MyPluginBPLibrary.cpp.obj",
+			"MyPluginTools.cpp.obj",
+			"MyTools.cpp.obj",
+			"MyUserWidget.cpp.obj"
+		]
+	}
+}

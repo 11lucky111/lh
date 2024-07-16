@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\zreal\Desktop\Test\Intermediate\Build\Win64\x64\TestEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\zreal\Desktop\Test\Plugins\MyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlugin\Module.MyPlugin.cpp.obj"
+"C:\Users\zreal\Desktop\Test\Plugins\MyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlugin\Default.rc2.res"
+/OUT:"C:\Users\zreal\Desktop\Test\Plugins\MyPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlugin\UnrealEditor-MyPlugin.lib"
